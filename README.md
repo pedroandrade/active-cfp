@@ -1,24 +1,13 @@
-# README
+# Conference talk submission system
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Software stack
 
-Things you may want to cover:
+ActiveCFP is a Ruby on Rails application that runs on the following software:
 
-* Ruby version
+- Ruby (MRI) 2.3
+- Redis 2.8+
+- MySQL or PostgreSQL
 
-* System dependencies
+## License and Copyright
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*ActiveCFP* is free software released under the [MIT License](http://www.opensource.org/licenses/MIT).
