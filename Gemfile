@@ -11,6 +11,7 @@ gem 'turbolinks',        '~> 5.0.1'
 gem 'jbuilder',          '~> 2.6.0'
 gem 'haml',              '~> 4.0.7'
 gem 'trailblazer-rails', '~> 0.3.2'
+gem 'devise',            '~> 4.2.0'
 
 group :production do
   gem 'rails_12factor', '~> 0.0.3'
